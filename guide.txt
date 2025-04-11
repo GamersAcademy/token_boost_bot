@@ -1,0 +1,19 @@
+Q: How to setup online boosting?
+A: Download NGROK > setup your token. Open ngrok.exe and type this: ngrok http 80. This will start ngrok on the route 80. Take the link which should look like this: "https://52d6-82-170-239-132.ngrok-free.app". Now go to your online webshop, Dynamic webhook URL and input the link + "/yourapi". Example: "https://52d6-82-170-239-132.ngrok-free.app/sellpass". Now your done, enjoy your auto boosts!
+N: Closing NGROK and reopening it will change the link, so if you don't adjust your shops link to the latest you won't get the data from the api. So i would say just host on an RDP and don't close it.
+
+Q: How to get sellpass API Key?
+A: Head over to your sellpass account > security. Scroll down all the way until you see "API Key". That is your key.
+
+Q: Options for the onliner?
+A: "dnd", "idle", "online"
+
+Q: What should I call my products to make auto boosting work?
+A: The product format should be: "4 Server Boosts [1 Month]" or 3 month. Make sure to use this format, else it won't function. The "4" stands for the amount of boosts and 1 Month for the duration in this example.
+
+Q: Can the boost amount be uneven?
+A: No.
+
+NOTE: Your sellpass API Key and Shop ID must be set only if you use sellpass else not.
+
+IF YOU STILL CANT DO AUTOBOOST SETUP ILL DO FOR YOU AND IT WILL COSTS 5$.

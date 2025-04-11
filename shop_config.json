@@ -1,0 +1,34 @@
+{
+    "Online_Store": {
+        "Activate": true,
+        "Billgang": {
+            "Invite_Field_Name": "Permanent Server Invite Link",
+            "Billgang_Api_Key": "",
+            "Webhook": "https://discord.com/api/webhooks/"
+        },
+        "Sellpass": {
+            "Invite_Field_Name": "Permanent Server Invite Link",
+            "Sellpass_Api_Key": "",
+            "Sellpass_Shop_Id": 0,
+            "Webhook": "https://discord.com/api/webhooks/"
+        },
+        "Sellix": {
+            "Invite_Field_Name": "Permanent Server Invite Link",
+            "Webhook": "https://discord.com/api/webhooks/"
+        },
+        "Sellapp": {
+            "Invite_Field_Name": "Permanent Server Invite Link",
+            "Webhook": "https://discord.com/api/webhooks/"
+        },
+        "Sellauth": {
+            "Invite_Field_Name": "Permanent Server Invite Link",
+            "Sellauth_Api_Key": "",
+            "Sellauth_Shop_Id": 0,
+            "Webhook": "https://discord.com/api/webhooks/"
+        },
+        "Sellsn": {
+            "Invite_Field_Name": "Permanent Server Invite Link",
+            "Webhook": "https://discord.com/api/webhooks/"
+        }
+    }
+}

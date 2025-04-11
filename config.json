@@ -1,0 +1,31 @@
+{
+    "Bot_Settings": {
+        "LicenceKey": "",
+        "Bot_Token": "",
+        "Logs-Channel-Id": "0",
+        "Proxies": true,
+        "RetryFailedReq": 10,
+        "EmbedColor": "#F117B4",
+        "Authorized_Users": [
+            "0",
+            "0"
+        ]
+    },
+    "Token_Settings": {
+        "Nickname": "",
+        "Bio": "",
+        "PFP": false,
+        "Banner": false
+    },
+    "Captcha": {
+        "Retries": 5
+    },
+    "Onliner": {
+        "Enable": true,
+        "Status": [
+            "online",
+            "idle",
+            "dnd"
+        ]
+    }
+}
